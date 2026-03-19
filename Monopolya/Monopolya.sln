@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopolya", "Monopolya.csproj", "{5C92904C-5269-4656-980A-CA6F8B0B1F5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{ABA936B4-72DA-47EB-8672-2D4005276402}"
+	ProjectSection(SolutionItems) = preProject
+		GameModels.cs = GameModels.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C92904C-5269-4656-980A-CA6F8B0B1F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C92904C-5269-4656-980A-CA6F8B0B1F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C92904C-5269-4656-980A-CA6F8B0B1F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C92904C-5269-4656-980A-CA6F8B0B1F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A951F14C-D536-496D-B59E-11F1A35B41EA}
+	EndGlobalSection
+EndGlobal
